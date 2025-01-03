@@ -332,4 +332,3 @@ ASALocalRun/
 **/temp.json
 **/dist
 **/.env
-!/start/client/.env
